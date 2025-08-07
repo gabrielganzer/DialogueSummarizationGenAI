@@ -31,12 +31,6 @@ venv.bak/
 # Logs
 *.log
 
-# Output directories
-results/
-outputs/
-figures/
-notebooks/
-
 # Temporary files
 *.tmp
 *.temp
