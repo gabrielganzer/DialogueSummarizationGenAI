@@ -1,0 +1,58 @@
+# Jupyter Notebook checkpoint files
+.ipynb_checkpoints/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+venv/
+env/
+env.bak/
+venv.bak/
+
+# Data files
+*.csv
+*.tsv
+*.xlsx
+*.json
+*.xml
+*.h5
+*.pkl
+*.db
+*.sqlite
+
+# Model files
+*.h5
+*.pt
+*.pth
+
+# Logs
+*.log
+
+# Output directories
+results/
+outputs/
+figures/
+notebooks/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# IDE/editor files
+*.ipynb_checkpoints
+*.DS_Store
+*.idea/
+*.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Other system files
+Thumbs.db
+ehthumbs.db
+
+# Backup files
+*~
